@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=qidanrui)
 
-Hi, I'm Danrui Qi, a 4th year Ph.D. candidate at Simon Fraser University.
+Hi, I'm Danrui Qi, a 5th year Ph.D. candidate at Simon Fraser University.
 <!--
 **qidanrui/qidanrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
